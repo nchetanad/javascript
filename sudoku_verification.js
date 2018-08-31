@@ -1,4 +1,4 @@
-
+//Sudoku verification
 function isValidSudoku(data) {
     function validateSudokuRules(inputArray) {
         // Sort the input array so that we get sorted values like 1,2,3...etc
